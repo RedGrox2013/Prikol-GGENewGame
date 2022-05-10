@@ -1,0 +1,14 @@
+# Этап "Существо"
+key parent AssetBrowserFilter!CreatureAnimal.prop
+key browserFilterArcheTypeID 0x9D80ABFB
+key browserFilterData creature
+keys browserFilterChildrenFilters
+	CreatureAnimal
+	CreatureTribe
+	CreatureCiv
+	CreatureSpace
+	CreatureAdventurer
+end
+texts browserFilterName
+	(sporepedia!0x0002001b) "Starter Creatures"
+end

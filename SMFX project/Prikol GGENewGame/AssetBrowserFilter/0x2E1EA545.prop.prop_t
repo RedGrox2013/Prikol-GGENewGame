@@ -1,0 +1,14 @@
+# Этап "Племя"
+key parent AssetBrowserFilter!CreatureAnimal.prop
+key browserFilterArcheTypeID trg_starterCreature
+key browserFilterData creature
+keys browserFilterChildrenFilters
+	CreatureAnimal
+	CreatureTribe
+	CreatureCiv
+	CreatureSpace
+	CreatureAdventurer
+end
+texts browserFilterName
+	(sporepedia!0x0002001b) "Starter Creatures"
+end

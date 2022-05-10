@@ -1,0 +1,12 @@
+key parent AssetBrowserFilter!CreatureAnimal.prop
+keys browserFilterChildrenFilters
+	0x2E1EA545
+	#<CreatureAnimal
+	CreatureTribe
+	CreatureCiv
+	CreatureSpace
+	CreatureAdventurer#>
+end
+texts browserFilterName
+	(sporepedia!0x00020012) "All"
+end

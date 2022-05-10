@@ -1,0 +1,10 @@
+# Этап "Клетка"
+bool browserAllowSortByPublished false
+key browserFilterArcheTypeID 0x2F01D6D3
+key browserFilterData cell
+keys browserFilterChildrenFilters
+	cell
+end
+texts browserFilterName
+	(sporepedia!0x00020003) "Cells"
+end

@@ -1,0 +1,28 @@
+bool ChooseAssets false
+bool ChooseCaptainName false
+bool ChooseCreature true
+bool ChooseCreatureAndAssetsTogether true
+bool ChooseDiet false
+bool ChooseDifficulty true
+bool ChooseName true
+bool ChooseSpecialty false
+bool ChooseTheme true
+uint32 NewGameArchetypeFilter 0x9d80abfb
+uint32 0x0AA450B4 0x062d838f
+uint32 0x10B6634E 0x2b978c46
+uint32 0x182D5E45 0x062d838a
+bool 0x25844B66 true
+uint32 0x296042C0 0x05a5cf6e
+uint32 0x2A29CC75 0x06451155
+uint32 0x525760B1 0
+uint32 0x7075C07E 0x05b08742
+uint32 0xB3AE8587 0
+uint32s 0xC06F6C08
+	0x0668b340
+	0x05b08722
+	0x05af2b91
+	0x05af2a13
+end
+uint32 0xD047A893 0x067731fa
+uint32 0xD07E6AEE 0
+uint32 0xE10AE352 0x05a5cf80
