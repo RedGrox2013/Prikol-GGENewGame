@@ -1,0 +1,2 @@
+Для того, чтобы загрузить проект в SporeModder FX, скопируйте папку Prikol GGENewGame в папку Projects
+или зайдите в SporeModder FX, нажмите Add External Project и укажите путь до папки Prikol GGENewGame
