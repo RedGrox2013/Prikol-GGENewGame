@@ -4,6 +4,8 @@
 
 ![Prikol-GGENewGame](Prikol-GGENewGame.jpg)
 
+[![video](https://i.ytimg.com/vi/GmiUFYmFynQ/hqdefault.jpg "Видео")](https://www.youtube.com/watch?v=GmiUFYmFynQ)
+
 ___
 
 ## Список этапов
